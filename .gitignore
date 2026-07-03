@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# TensorFlow models
+*.h5
+*.keras
+*.pb
+
+# Dataset
+garbage_classification_subset/
+
+# Images generated during training
+*.png
+*.jpg
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+
+# Temporary
+tmp/
+temp/
+
+# Build
+build/
+dist/
