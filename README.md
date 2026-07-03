@@ -253,21 +253,27 @@ The trained model is evaluated using:
 
 # 📸 Screenshots
 
+## Images per Class
+
+<p align="center">
+<img src="screenshots/images_per_class.png" width="900">
+</p>
+
+---
+
 ## Training Curves
 
-*(Insert screenshot here)*
+<p align="center">
+<img src="screenshots/training_curves.png" width="900">
+</p>
 
 ---
 
 ## Confusion Matrix
 
-*(Insert screenshot here)*
-
----
-
-## Example Predictions
-
-*(Insert screenshot here)*
+<p align="center">
+<img src="screenshots/confusion_matrix.png" width="900">
+</p>
 
 ---
 
